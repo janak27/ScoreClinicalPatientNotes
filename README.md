@@ -7,10 +7,7 @@ For more Information, You can visit the Problem Statement Link below.
 
 
 [Problem Statement](https://www.kaggle.com/c/nbme-score-clinical-patient-notes/)
-## Authors
 
-- [@nimish07-ai](https://github.com/nimish07-ai)
-- [@janak27](https://www.github.com/janak27)
 
 
 
